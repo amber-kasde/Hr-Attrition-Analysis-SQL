@@ -12,7 +12,7 @@ This project analyzes attrition patterns to identify high-risk segments.
 
 ## Dataset Overview
 - Source: IBM HR Analytics Dataset
-- Records: XXXX employees
+- Records: 1470 employees
 - Key tables: employee_details, performance, compensation
 
 ## Data Cleaning & Validation
